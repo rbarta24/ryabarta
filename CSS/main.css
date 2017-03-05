@@ -1,0 +1,58 @@
+
+h1, h2, p, a {
+font-size: 20px;
+  font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  text-align:center;
+  font-size: 40px;
+  color: #FF0000;
+  font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+
+}
+
+html {
+margin: 0;
+padding: 0;
+}
+
+body {
+  background: url('../img/004-polished-wood.png');
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+      }
+
+.main {
+
+  text-align: center;
+  padding: 50px 0 80px;
+  background-color:  #1c1c1c;
+}
+
+.jumbotron {
+  margin-top: 100px;
+  font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+  background-image: url('../img/clouds.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-circle {
+width: 150px;
+}
+.img-responsive {
+  margin-bottom: 20px;
+  display: block;
+  height: auto;
+}
+
+.row {
+  margin-top: 30px;
+
+}
